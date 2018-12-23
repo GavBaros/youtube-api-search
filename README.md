@@ -5,4 +5,4 @@
 
 ## Demo
 
-![](yt-demo.gif)
+![](yt.gif)
